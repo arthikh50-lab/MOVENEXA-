@@ -27,7 +27,6 @@
     "socket.io-client": "^4.8.3"
   },
   "devDependencies": {
-    "@rollup/rollup-win32-x64-msvc": "^4.61.0",
     "@tailwindcss/oxide": "^4.3.0",
     "@tailwindcss/vite": "^4.1.14",
     "@types/bcrypt": "^6.0.0",
